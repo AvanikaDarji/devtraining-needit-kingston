@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Update Record">baf174c8c3c232002841b63b12d3aee4</action_type>
+        <action_type_parent/>
+        <comment>Set request state to Closed Cancel</comment>
+        <compiled_snapshot/>
+        <display_text/>
+        <flow display_value="Offboarding User Request">557eb4abdbc3230067c59235ca96192d</flow>
+        <order>2.1</order>
+        <parent_ui_id>d94f0982-9af6-4153-a3cf-ed58e0f92322</parent_ui_id>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-23 00:16:21</sys_created_on>
+        <sys_id>af3c85a3db07230067c59235ca961937</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_action_instance_af3c85a3db07230067c59235ca961937</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-23 00:16:21</sys_updated_on>
+        <ui_id>7a02eabf-321a-4b64-b1e4-db009282fffc</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=af3c85a3db07230067c59235ca961937"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_instance</document>
+        <document_key>af3c85a3db07230067c59235ca961937</document_key>
+        <order>50</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-23 00:16:21</sys_created_on>
+        <sys_id>e33c85a3db07230067c59235ca96193d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-23 00:16:21</sys_updated_on>
+        <value>sys_user</value>
+        <variable display_value="">1fd27c8cc3c632002841b63b12d3aeb9</variable>
+    </sys_variable_value>
+</record_update>
